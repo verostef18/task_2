@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200&display=swap');
+*{  font-family: 'Unbounded', cursive;
+    margin: 0;
+    padding: 0;
+}
+header h1{
+    text-align: center;
+    
+}
+
+header figure{
+    background: url('../img/design1_image2.jpg');
+    height:450px;
+    margin: 3em;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-shadow: 5px 10px #eee8e8;
+}
+.container{
+    margin: 3em;
+}
+
+    #logo img{
+        margin-top: 45%;
+        width: 10em;
+        float: left;
+    }
+
+h2{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+}
+nav {
+    
+    float: right;
+    margin-bottom: 50%;
+   position: relative;
+   bottom: 575px;
+    
+}
+a:active{
+   background-color: rgb(125, 206, 87);
+}
+a{
+
+    background: rgb(64, 176, 252);
+    text-decoration: none;
+    color: #eee8e8;
+    border: solid 1px black;
+    box-shadow:3px 3px #eee8e8 ;
+    font-size:1.5em;
+  
+}

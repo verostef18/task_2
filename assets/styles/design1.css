@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header h1{
+    text-align: center;
+    
+    
+}
+
+header figure{
+    background: url('../img/design1_image2.jpg');
+    height:450px;
+    margin: 3em;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-shadow: 5px 10px #eee8e8;
+}
+.container{
+    margin: 3em;
+}
+#logo img{
+    margin-top: 35%;
+    width: 10em;
+    float: right;
+}
+
+h2{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+}
+.img1 img{
+width: 25em;
+float: left;
+}
+.img2 img{
+    width: 25em;
+    float: left;  
+}
+.img3 img{
+    width: 25em;
+    float: left; 
+}
+nav a{
+    display: block;
+    margin-top:5%;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(250, 5, 5);
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
